@@ -17,4 +17,4 @@ directory = Dir.entries(".")
 		end
 	end
 
-end
+end 
